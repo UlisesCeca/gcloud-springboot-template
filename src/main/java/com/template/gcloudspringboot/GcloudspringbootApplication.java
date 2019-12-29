@@ -13,6 +13,6 @@ public static void main(String[] args) {
         }
 @GetMapping("/")
         public String hello() {
-                return "Hello Spring Boot!";
+                return "Hello Spring !";
         }
 }
