@@ -15,7 +15,6 @@ public class GcloudspringbootApplication {
 	}
 
 	@GetMapping("/")
-	@CrossOrigin("*")
 	public String hello() {
 		return "Hello Spring boot!";
 	}
