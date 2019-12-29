@@ -62,7 +62,7 @@
 				<version>2.2.0</version>
 				<configuration>
 					<deploy.projectId>GCLOUD_CONFIG</deploy.projectId>
-					<deploy.version>6</deploy.version>
+					<deploy.version>7</deploy.version>
 				</configuration>
 			</plugin>
 		</plugins>
