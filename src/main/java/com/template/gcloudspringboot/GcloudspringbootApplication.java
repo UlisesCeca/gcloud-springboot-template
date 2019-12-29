@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-@CrossOrigin(origins = "https://meeee-263318.appspot.com", maxAge = 3600)
+@CrossOrigin(origins = "https://front-dot-dedede-263318.appspot.com", maxAge = 3600)
 public class GcloudspringbootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GcloudspringbootApplication.class, args);
