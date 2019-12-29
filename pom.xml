@@ -61,8 +61,8 @@
 				<artifactId>appengine-maven-plugin</artifactId>
 				<version>2.2.0</version>
 				<configuration>
-					<deploy.projectId>GCLOUD_CONFIG</deploy.projectId>
-					<deploy.version>7</deploy.version>
+					<deploy.projectId>dedede-263318</deploy.projectId>
+					<deploy.version>8</deploy.version>
 				</configuration>
 			</plugin>
 		</plugins>
